@@ -1,4 +1,4 @@
-// standard ANSI Colours
+// standard ANSI Colors
 const black = '#2b303b';
 const red = '#bf616a';
 const green = '#a3be8c';

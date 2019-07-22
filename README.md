@@ -1,6 +1,8 @@
 # hyper-moonlite
 
-The hyper-moonlite is a spin-off of [new moon syntax theme](https://github.com/taniarascia/new-moon) for Hyper.
+The hyper-moonlite is a spin-off of [new moon syntax theme](https://github.com/taniarascia/new-moon) for `Hyper`.
+
+![](https://imgur.com/a4KVlsR.png)
 
 [![version][version-badge]][package]
 [![downloads][downloads-badge]][npmtrends]
@@ -28,6 +30,10 @@ Installing the hyper-moonlite theme for your Hyper terminal couldn't be easier.
 ## ↩︎ Contribute
 
 If you would like to help improve this theme, you're more than welcome to contribute. Open a PR and let's go!
+
+## ✔︎ License
+
+This project is open source and is available under the [MIT License](LICENSE)
 
 [license-badge]: https://img.shields.io/npm/l/hyper-moonlite.svg?style=flat-square
 [license]: https://opensource.org/licenses/MI]
