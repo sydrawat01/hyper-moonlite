@@ -33,7 +33,7 @@ exports.decorateConfig = config =>
       background-color: rgba(255, 255, 255, 0.04);
     }
     .tab_text {
-      background-color: rgba(255, 255, 255, 0.04);;
+      background-color: rgba(255, 255, 255, 0.04);
     }
     .tab_active {
       background-color: ${black};
