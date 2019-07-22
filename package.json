@@ -1,0 +1,27 @@
+{
+  "name": "hyper-moonlite",
+  "version": "1.0.0",
+  "description": "Hyper theme based heavily on New Moon, with a few tweaks",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sydrawat/hyper-moonlite.git"
+  },
+  "keywords": [
+    "hyper",
+    "hyper-theme",
+    "hyperterm",
+    "theme",
+    "ui",
+    "terminal",
+    "new",
+    "moon",
+    "moonlite"
+  ],
+  "author": "Siddharth Rawat",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sydrawat/hyper-moonlite/issues"
+  },
+  "homepage": "https://github.com/sydrawat/hyper-moonlite#readme"
+}
