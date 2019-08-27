@@ -3,6 +3,7 @@
 The hyper-moonlite is a spin-off of [new moon syntax theme](https://github.com/taniarascia/new-moon) for `Hyper`.
 
 ![](https://imgur.com/a4KVlsR.png)
+![](https://user-images.githubusercontent.com/22128987/62905043-4b52cc80-bd58-11e9-8a21-f978a216658b.png)
 
 [![version][version-badge]][package]
 [![downloads][downloads-badge]][npmtrends]
