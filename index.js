@@ -7,14 +7,14 @@ const blue = '#8fa1b3';
 const magenta = '#b48ead';
 const cyan = '#96b5b4';
 const white = '#c0c5ce';
-const lightBlack = '#2b303b';
-const lightRed = '#bf616a';
-const lightGreen = '#a3be8c';
-const lightYellow = '#ebcb8b';
-const lightBlue = '#8fa1b3';
-const lightMagenta = '#b48ead';
-const lightCyan = '#96b5b4';
-const lightWhite = '#c0c5ce';
+const lightBlack = '#616775';
+const lightRed = '#ea919a';
+const lightGreen = '#d0edb6';
+const lightYellow = '#f9dea7';
+const lightBlue = '#b4cee8';
+const lightMagenta = '#eabee2';
+const lightCyan = '#c3e5e4';
+const lightWhite = '#e1e8f4';
 
 const accentColor = blue;
 
