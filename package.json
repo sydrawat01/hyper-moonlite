@@ -1,6 +1,6 @@
 {
   "name": "hyper-moonlite",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "Hyper theme based heavily on New Moon, with a few tweaks",
   "main": "index.js",
   "repository": {

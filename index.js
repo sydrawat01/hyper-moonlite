@@ -20,20 +20,20 @@ const accentColor = blue;
 
 exports.decorateConfig = config =>
   Object.assign({}, config, {
-    cursorColor: accentColor,
+    cursorColor: rgba(190,226,135,0.8),
     cursorAccentColor: lightWhite,
-    foregroundColor: white,
-    backgroundColor: black,
+    foregroundColor: 'rgb(192, 197, 206,0.7)',
+    backgroundColor: 'rgba(0,0,0,0.7)',
     borderColor: 'rgba(255,255,255, 0.2)',
-    selectionColor: 'rgba(255,255,255, 0.2)',
+    selectionColor: 'rgba(164,205,255,0.3)',
     css: `
     ${config.css || ''}
     .tab_tab {
       border: 0;
-      background-color: rgba(255, 255, 255, 0.04);
+      background-color: rgba(255, 255, 255, 0.4);
     }
     .tab_text {
-      background-color: rgba(255, 255, 255, 0.04);
+      background-color: rgba(255, 255, 255, 0.4);
     }
     .tab_active {
       background-color: ${black};
