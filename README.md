@@ -2,6 +2,8 @@
 
 The hyper-moonlite is a spin-off of [new moon syntax theme](https://github.com/taniarascia/new-moon) for `Hyper`.
 
+PS: Checkout the same theme for your browser! It's [Firefox Moonlite](https://github.com/sydrawat/firefox-moonlite), join the dark side!
+
 ![](https://imgur.com/gwoqXLc.png)
 
 [![version][version-badge]][package]
