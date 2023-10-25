@@ -23,5 +23,10 @@
   "bugs": {
     "url": "https://github.com/sydrawat/hyper-moonlite/issues"
   },
-  "homepage": "https://github.com/sydrawat/hyper-moonlite#readme"
+  "homepage": "https://github.com/sydrawat/hyper-moonlite#readme",
+  "devDependencies": {
+    "@semantic-release/git": "^10.0.1",
+    "@semantic-release/github": "^9.2.1",
+    "semantic-release": "^22.0.5"
+  }
 }
