@@ -45,3 +45,7 @@ This project is open source and is available under the [MIT License](LICENSE)
 [npmtrends]: http://www.npmtrends.com/hyper-moonlite
 [prs-badge]: https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square
 [prs]: http://makeapullrequest.com
+
+## Authors
+
+[Siddharth Rawat](mailto:)
