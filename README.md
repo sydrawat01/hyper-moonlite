@@ -4,6 +4,8 @@ The hyper-moonlite is a spin-off of [new moon syntax theme](https://github.com/t
 
 PS: Checkout the same theme for your browser! It's [Firefox Moonlite](https://github.com/sydrawat/firefox-moonlite), join the dark side!
 
+> NOTE: This theme is no longer under active development and will be archived soon.
+
 ![](https://imgur.com/gwoqXLc.png)
 
 [![version][version-badge]][package]
